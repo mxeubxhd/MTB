@@ -1,0 +1,75 @@
+{
+  "fanlar": [
+    {
+      "id": "math",
+      "name": "📐 Matematika",
+      "darslar": [
+        {
+          "id": 1,
+          "title": "Kvadrat tenglamalar",
+          "text": "Kvadrat tenglama umumiy ko'rinishi: ax² + bx + c = 0 (a ≠ 0).\n\nYechish uchun diskriminant qo'llaniladi:\nD = b² - 4ac\n\n- Agar D > 0 bo'lsa — 2 ta yechim bor\n- Agar D = 0 bo'lsa — 1 ta yechim bor\n- Agar D < 0 bo'lsa — haqiqiy yechim yo'q\n\nYechimlar formulasi: x = (-b ± √D) / 2a",
+          "video": "https://youtube.com/watch?v=misol1",
+          "savollar": [
+            {
+              "savol": "x² - 5x + 6 = 0 tenglamaning ildizlari yig'indisi nechaga teng?",
+              "variantlar": ["5", "6", "-5", "11"],
+              "javob": 0
+            },
+            {
+              "savol": "Diskriminant manfiy bo'lsa, tenglama nechta haqiqiy yechimga ega?",
+              "variantlar": ["1 ta", "2 ta", "0 ta", "Cheksiz"],
+              "javob": 2
+            },
+            {
+              "savol": "x² - 4 = 0 tenglamaning yechimlari?",
+              "variantlar": ["x = 4", "x = ±2", "x = 2", "x = -4"],
+              "javob": 1
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "title": "Arifmetik progressiya",
+          "text": "Arifmetik progressiya — har bir keyingi had oldingisidan doimiy songa (d — ayirma) farq qiladigan sonlar ketma-ketligi.\n\nUmumiy had formulasi:\naₙ = a₁ + (n-1)d\n\nDastlabki n ta had yig'indisi:\nSₙ = (a₁ + aₙ) × n / 2",
+          "video": "https://youtube.com/watch?v=misol2",
+          "savollar": [
+            {
+              "savol": "Agar a₁ = 2, d = 3 bo'lsa, a₅ nechaga teng?",
+              "variantlar": ["14", "17", "11", "20"],
+              "javob": 0
+            },
+            {
+              "savol": "Arifmetik progressiyada ayirma qanday belgilanadi?",
+              "variantlar": ["a", "n", "d", "S"],
+              "javob": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "physics",
+      "name": "⚛️ Fizika",
+      "darslar": [
+        {
+          "id": 1,
+          "title": "Nyutonning birinchi qonuni",
+          "text": "Nyutonning birinchi qonuni (inersiya qonuni):\n\nAgar jismga boshqa jismlar ta'sir qilmasa yoki ularning ta'siri o'zaro muvozanatlashgan bo'lsa, u tinch holatda yoki to'g'ri chiziqli tekis harakatda bo'ladi.\n\nBu qonun jismlarning inersiya xususiyatini tasvirlaydi.",
+          "video": "https://youtube.com/watch?v=misol3",
+          "savollar": [
+            {
+              "savol": "Nyutonning birinchi qonuni nima haqida?",
+              "variantlar": ["Kuch va tezlanish", "Inersiya", "Og'irlik kuchi", "Ish va energiya"],
+              "javob": 1
+            },
+            {
+              "savol": "Jismga ta'sir kuchlari muvozanatlashgan bo'lsa, jism qanday harakatlanadi?",
+              "variantlar": ["Tezlashadi", "Sekinlashadi", "Tinch yoki tekis harakatda", "Aylanadi"],
+              "javob": 2
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
