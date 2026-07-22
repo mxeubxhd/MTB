@@ -1,21 +1,22 @@
 import os
-import asyncio
-import json
-import logging
+# import asyncio
+# import json
+# import logging
 
-from aiogram import Bot, Dispatcher, F, Router
-from aiogram.filters import CommandStart, Command
-from aiogram.fsm.storage.memory import MemoryStorage
-from aiogram.types import (
-    Message,
-    CallbackQuery,
-    InlineKeyboardMarkup,
-    InlineKeyboardButton,
-)
+# from aiogram import Bot, Dispatcher, F, Router
+# from aiogram.filters import CommandStart, Command
+# from aiogram.fsm.storage.memory import MemoryStorage
+# from aiogram.types import (
+#     Message,
+#     CallbackQuery,
+#     InlineKeyboardMarkup,
+#     InlineKeyboardButton,
+# )
 
-import database as db
+# import database as db
 
-BOT_TOKEN = "8890889822:AAE8TJvJvUpVHQ8BCuO22OvLhhHNJ63GLks"
+BOT_TOKEN = "8890889822:AAHXwcQ0wMOuudQ_TRogiBWqrjNmxqQU4JU"
+
 
 logging.basicConfig(level=logging.INFO)
 
