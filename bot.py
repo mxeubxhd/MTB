@@ -15,10 +15,7 @@ from aiogram.types import (
 
 import database as db
 
-# ==========================================
-# BU YERGA @BotFather'dan olgan tokeningizni yozing!
-# ==========================================
-BOT_TOKEN = "8890889822:AAGx8_vlpCnjpkBJpPsdgUmCfUcBvRhuITE"
+BOT_TOKEN = "8890889822:AAE8TJvJvUpVHQ8BCuO22OvLhhHNJ63GLks"
 
 logging.basicConfig(level=logging.INFO)
 
